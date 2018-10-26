@@ -4,7 +4,7 @@ public class check{
 		System.out.println("check 0");
 
 		for(int i=1;i<=4;i++){
-			System.out.println("yes"+i);
+			System.out.println(i);
 		}
 	}
 }
